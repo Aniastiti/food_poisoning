@@ -2,7 +2,7 @@
 
 Hi There,
 
-Thank you for visiting my project looking into food poisoning (food borne illness) across the United States with a data set that covers a time period of 1998-2015. 
+Thank you for visiting my project looking into food poisoning (food borne illness) across the United States with a data set that covers a time period from 1998-2015. 
 
 
 **** <b>Regarding the information in this data set, please read the follwoing disclaimer by the CDC.</b> <i>Data available via FOOD Tool originate from a dynamic outbreak surveillance database. Reporting agencies (state, local, territorial, and tribal health departments, and CDC) can modify their reports at any time, even months or years after an outbreak. Therefore, FOOD Tool results are subject to change. FOOD Tool was last updated on 9/1/2016; this date is recorded in the "Last Transfer Date" field in the downloaded file.
