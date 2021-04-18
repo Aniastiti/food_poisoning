@@ -5,7 +5,7 @@ Hi There,
 Thank you for visiting my project looking into food poisoning (food borne illness) across the United States with a data set that covers a time period from 1998-2015. 
 
 
-**** <b>Regarding the information in this data set, please read the follwoing disclaimer by the CDC.</b> <i>Data available via FOOD Tool originate from a dynamic outbreak surveillance database. Reporting agencies (state, local, territorial, and tribal health departments, and CDC) can modify their reports at any time, even months or years after an outbreak. Therefore, FOOD Tool results are subject to change. FOOD Tool was last updated on 9/1/2016; this date is recorded in the "Last Transfer Date" field in the downloaded file.
+**** <b>Regarding the information in this data set, please read the following disclaimer by the CDC.</b> <i>Data available via FOOD Tool originate from a dynamic outbreak surveillance database. Reporting agencies (state, local, territorial, and tribal health departments, and CDC) can modify their reports at any time, even months or years after an outbreak. Therefore, FOOD Tool results are subject to change. FOOD Tool was last updated on 9/1/2016; this date is recorded in the "Last Transfer Date" field in the downloaded file.
 
 Source: https://wwwn.cdc.gov/foodborneoutbreaks/</i>****
 
@@ -18,7 +18,7 @@ Source: https://wwwn.cdc.gov/foodborneoutbreaks/</i>****
 <font color = blue>**Why are we here?**</font>
 
 * <font color = red>Goal 1:</font> <i>Identify most common location of food borne illness</i>
-* <font color = red>Goal 2:</font> <i>Identify which states are most likely to have food borne ilness </i>
+* <font color = red>Goal 2:</font> <i>Identify which states are most likely to have food borne illness </i>
 
 -------------------
 <h3><u>Where Is Our Data Coming From?</u></h3>
@@ -54,8 +54,8 @@ In addition to this README, you can see my TRELLO project pipeline by visiting t
 
 - Is illness from food borne illness correlated to state?
 - Is there a relationship between hospitlizations and state?
-- Is food correlated to illness?
-- Is food type correlated to hospitlization?
+- Is food type correlated to illness?
+- Is food type correlated to hospitalization?
 - Are there states seeing decreasing rates of hospitalization over the years due to food poisoning?
 - Are there states seeing rising cases of hospitalizaiton due to food poisoning?
 
@@ -109,7 +109,7 @@ TBD
 
 <h3>Key Takeaways, Recommendations, & Next Steps</h3>
 
-Through this classification project I came away with the following <b> key takeways</b>:
+Through this classification project I came away with the following <b> key takeaways</b>:
 
 TBD
 
