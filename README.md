@@ -53,11 +53,12 @@ In addition to this README, you can see my TRELLO project pipeline by visiting t
  <h3><u>Hypothesis and Questions</u></h3>
 
 - Is illness from food borne illness correlated to state?
-- Is there a relationship between hospitlizations and state?
+- Is there a relationship between hospitalization and state?
+- Which type of food poisoning is most prevalent?
 - Is food type correlated to illness?
 - Is food type correlated to hospitalization?
 - Are there states seeing decreasing rates of hospitalization over the years due to food poisoning?
-- Are there states seeing rising cases of hospitalizaiton due to food poisoning?
+- Are there states seeing rising cases of hospitalization due to food poisoning?
 
 <h5> The questions above will be answered using correlation tests, chi^2 tests and t-tests.</h5>
 
