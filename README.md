@@ -60,6 +60,7 @@ In addition to this README, you can see my TRELLO project pipeline by visiting t
 - Is food type correlated to hospitalization?
 - Are there states seeing decreasing rates of hospitalization over the years due to food poisoning?
 - Are there states seeing rising cases of hospitalization due to food poisoning?
+- Are you more likely to get food poisoning at home or at a restaurant?
 
 <h5> The questions above will be answered using correlation tests, chi^2 tests and t-tests.</h5>
 
